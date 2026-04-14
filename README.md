@@ -85,7 +85,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-(Add your deployed link here after deployment)
+https://disease-prediction-system-mrmirza19k.streamlit.app
 
 ---
 
