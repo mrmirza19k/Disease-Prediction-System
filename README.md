@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ### Step 3: Run Application
 
 ```bash
-streamlit run app.py
+streamlit run project.py
 ```
 
 ---
